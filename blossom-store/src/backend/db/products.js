@@ -1,27 +1,115 @@
 import { v4 as uuid } from "uuid";
-
-/**
- * Product Database can be added here.
- * You can add products of your wish with different attributes
- * */
-
 export const products = [
-  {
-    _id: uuid(),
-    title:"",  
-    price: "5000",
-    categoryName: "Guitar",
-  },
-  {
-    _id: uuid(),
-    title:"",
-    price: "3000",
-    categoryName: "Guitar",
-  },
-  {
-    _id: uuid(),
-    title:"",
-    price: "1000",
-    categoryName: "Guitar",
-  },
+    {
+        id: uuid(),
+        title:"Acoustic Guitar",
+        image :'https://raw.githubusercontent.com/shuklahimanshu81/Blossom-store-react-app/Dev/blossom-store/src/Assets/Drum.jpg',  
+        price: "5000",
+        categoryName: "Guitar",
+      },
+      {
+        id: uuid(),
+        title:"Acoustic Guitar",
+        image :'https://raw.githubusercontent.com/shuklahimanshu81/Blossom-store-react-app/Dev/blossom-store/src/Assets/Drum.jpg',  
+        price: "5000",
+        categoryName: "Guitar",
+      },
+      {
+        id: uuid(),
+        title:"Acoustic Guitar",
+        image :'https://raw.githubusercontent.com/shuklahimanshu81/Blossom-store-react-app/Dev/blossom-store/src/Assets/Drum.jpg',  
+        price: "5000",
+        categoryName: "Guitar",
+      },
+      {
+        id: uuid(),
+        title:"Acoustic Guitar",
+        image :'https://raw.githubusercontent.com/shuklahimanshu81/Blossom-store-react-app/Dev/blossom-store/src/Assets/Drum.jpg',  
+        price: "5000",
+        categoryName: "Guitar",
+      },
+      {
+        id: uuid(),
+        title:"Acoustic Guitar",
+        image :'https://raw.githubusercontent.com/shuklahimanshu81/Blossom-store-react-app/Dev/blossom-store/src/Assets/Drum.jpg',  
+        price: "5000",
+        categoryName: "Guitar",
+      },
+      {
+        id: uuid(),
+        title:"Acoustic Guitar",
+        image :'https://raw.githubusercontent.com/shuklahimanshu81/Blossom-store-react-app/Dev/blossom-store/src/Assets/Drum.jpg',  
+        price: "5000",
+        categoryName: "Guitar",
+      },
+      {
+        id: uuid(),
+        title:"Acoustic Guitar",
+        image :'https://raw.githubusercontent.com/shuklahimanshu81/Blossom-store-react-app/Dev/blossom-store/src/Assets/Drum.jpg',  
+        price: "5000",
+        categoryName: "Guitar",
+      },
+      {
+        id: uuid(),
+        title:"Acoustic Guitar",
+        image :'https://raw.githubusercontent.com/shuklahimanshu81/Blossom-store-react-app/Dev/blossom-store/src/Assets/Drum.jpg',  
+        price: "5000",
+        categoryName: "Guitar",
+      },
+      {
+        id: uuid(),
+        title:"Acoustic Guitar",
+        image :'https://raw.githubusercontent.com/shuklahimanshu81/Blossom-store-react-app/Dev/blossom-store/src/Assets/Drum.jpg',  
+        price: "5000",
+        categoryName: "Guitar",
+      },
+      {
+        id: uuid(),
+        title:"Acoustic Guitar",
+        image :'https://raw.githubusercontent.com/shuklahimanshu81/Blossom-store-react-app/Dev/blossom-store/src/Assets/Drum.jpg',  
+        price: "5000",
+        categoryName: "Guitar",
+      },
+      {
+        id: uuid(),
+        title:"Acoustic Guitar",
+        image :'https://raw.githubusercontent.com/shuklahimanshu81/Blossom-store-react-app/Dev/blossom-store/src/Assets/Drum.jpg',  
+        price: "5000",
+        categoryName: "Guitar",
+      },
+      {
+        id: uuid(),
+        title:"Acoustic Guitar",
+        image :'https://raw.githubusercontent.com/shuklahimanshu81/Blossom-store-react-app/Dev/blossom-store/src/Assets/Drum.jpg',  
+        price: "5000",
+        categoryName: "Guitar",
+      },
+      {
+        id: uuid(),
+        title:"Acoustic Guitar",
+        image :'https://raw.githubusercontent.com/shuklahimanshu81/Blossom-store-react-app/Dev/blossom-store/src/Assets/Drum.jpg',  
+        price: "5000",
+        categoryName: "Guitar",
+      },
+      {
+        id: uuid(),
+        title:"Acoustic Guitar",
+        image :'https://raw.githubusercontent.com/shuklahimanshu81/Blossom-store-react-app/Dev/blossom-store/src/Assets/Drum.jpg',  
+        price: "5000",
+        categoryName: "Guitar",
+      },
+      {
+        id: uuid(),
+        title:"Acoustic Guitar",
+        image :'https://raw.githubusercontent.com/shuklahimanshu81/Blossom-store-react-app/Dev/blossom-store/src/Assets/Drum.jpg',  
+        price: "5000",
+        categoryName: "Guitar",
+      },
+      {
+        id: uuid(),
+        title:"Acoustic Guitar",
+        image :'https://raw.githubusercontent.com/shuklahimanshu81/Blossom-store-react-app/Dev/blossom-store/src/Assets/Drum.jpg',  
+        price: "5000",
+        categoryName: "Guitar",
+      }
 ];
